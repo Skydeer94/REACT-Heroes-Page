@@ -5,6 +5,7 @@ import {
   RouterProvider,
   Route,
   BrowserRouter,
+  HashRouter,
 } from "react-router-dom";
 import { HeroesApp } from './HeroesApp';
 import './styles.css';
